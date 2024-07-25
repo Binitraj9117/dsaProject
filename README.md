@@ -1,2 +1,1 @@
-# dsaProject
-This is cipherschool project
+# DsaProject
